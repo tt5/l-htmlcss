@@ -1,0 +1,9 @@
+`npm i g vite`
+
+in other terminal
+`vite`
+
+open http://localhost:5173/ in webbrowser
+
+change files in editor, save file
+
